@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
-    description: 'Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.',
-    author: '@gatsbyjs',
+    title: 'Alta Labs',
+    description: 'Alta Labs is building the world’s most trusted and transparent business marketplace. We make it easy to find great services from top-rated pros and provide the guidance companies need to make a more informed purchase.',
+    author: '@joinlapro'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
