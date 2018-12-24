@@ -4,10 +4,11 @@ import Header from '../components/header'
 import Footer from '../components/footer'
 import Hero from '../components/hero'
 import MediaControlCard from '../components/mediaCard'
-
+import SEO from '../components/seo'
 
 export default () => (
   <div>
+    <SEO title="Business marketplace" keywords={[`marketplace`, `alta labs`, `service pros`]} />
     <Header></Header>
     <div id="main">
       <Hero></Hero>
