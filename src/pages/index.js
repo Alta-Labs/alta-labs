@@ -7,7 +7,7 @@ import MediaControlCard from '../components/mediaCard'
 import SEO from '../components/seo'
 
 export default () => (
-  <div>
+  <div style={{ maxWidth: '2048px', margin: '0 auto' }}>
     <SEO title="Business marketplace" keywords={[`marketplace`, `alta labs`, `service pros`]} />
     <Header></Header>
     <div id="main">
