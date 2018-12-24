@@ -35,7 +35,7 @@ function Hero(props) {
 
   return (
     <div className={classes.himage}>
-          <h1 className={classes.htitle}>Business Marketplace, Reimaged</h1>
+          <h1 className={classes.htitle}>Business Marketplace, Reimagined</h1>
           <div className={classes.subtitle}>Alta Labs is building the world’s most trusted and transparent business marketplace. We make it easy to find great services from top-rated pros and provide the guidance companies need to make a more informed purchase.</div>
 
           <Button variant="raised" color="secondary" style={{borderRadius: '25px',}} target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd6qEkDMKDWXEVA4eg92UPTuuJv65BFFpCa2Sw7CVR8bzX5iQ/viewform">
