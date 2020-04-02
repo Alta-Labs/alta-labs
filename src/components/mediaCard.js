@@ -37,21 +37,21 @@ function MediaControlCard(props) {
       <div className={classes.details}>
         <CardContent className={classes.content}>
           <Typography component="h5" variant="h5">
-            Lapro
+            SpruceJoy
           </Typography>
           <Typography variant="subtitle1" color="textSecondary">
-          Lapro is a trusted marketplace for businesses to find, compare, and book local business service pros. 
+          SpruceJoy is a trusted marketplace for home owners to find, compare, and book local business service pros. 
           </Typography>
         </CardContent>
         <CardActions>
-            <Button size="small" target="_blank" href="https://www.lapro.io">Learn More</Button>
+            <Button size="small" target="_blank" href="https://www.sprucejoy.com">Learn More</Button>
         </CardActions>
       </div>
       <Hidden smDown>
         <CardMedia
             className={classes.cover}
             image={laproLogo}
-            title="Lapro logo"
+            title="SpruceJoy logo"
         />
       </Hidden>
       
