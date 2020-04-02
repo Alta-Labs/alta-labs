@@ -9,7 +9,7 @@ import CardActions from '@material-ui/core/CardActions';
 import Button from '@material-ui/core/Button';
 import Hidden from '@material-ui/core/Hidden';
 
-import laproLogo from "../images/lapro-logo.png";
+import laproLogo from "../images/sprucejoy-logo.png";
 
 
 const styles = {
